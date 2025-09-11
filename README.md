@@ -14,6 +14,8 @@ HÜ
 - html
 - css
 
+## Stoff besprochen
+
 ## INhalte vom letzten Jahr
 
 - arrays / 2d
