@@ -1,5 +1,12 @@
 # sj25-26-2ahwii-swp-grg-mja
 
+##
+
+## 2025-09-15
+
+- OO-style reorg
+- throw() verwenden!!
+
 ## 2025-09-08
 
 HÜ
