@@ -1,6 +1,11 @@
 # sj25-26-2ahwii-swp-grg-mja
 
-##
+## 2025-09-22
+
+- constructor / this / static
+- class vs. instance
+
+HÜ exceptions recherche
 
 ## 2025-09-15
 
