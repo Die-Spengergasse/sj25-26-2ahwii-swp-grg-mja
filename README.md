@@ -1,5 +1,13 @@
 # sj25-26-2ahwii-swp-grg-mja
 
+## 2025-09-29
+
+OO vertieft anhand Class Bruch
+
+- HÜ: deno init in neuem Folder
+- deno test aufrufen
+- 5 Testfälle für die Bruchklasse implementieren
+
 ## 2025-09-22
 
 - constructor / this / static
