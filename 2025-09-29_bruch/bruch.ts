@@ -37,8 +37,11 @@ export class Bruch {
     return a;
   }
   toString(): string {
+    if (this.zähler === 0) return `${this.ganz}`;
+    if (this.ganz === 0) return `${this.zähler}/${this.nenner}`;
     return `${this.ganz} ${this.zähler}/${this.nenner}`;
   }
+  // factory method
   static fromString(input: string): Bruch {
     const parts = input.split(" ");
     let ganz = 0;
